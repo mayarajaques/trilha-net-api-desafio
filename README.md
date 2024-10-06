@@ -1,3 +1,6 @@
+**Fork efetuado para resolver os desafios propostos abaixo do curso de Desenvolvimento C#, Entity Framework e API.**
+
+
 # DIO - Trilha .NET - API e Entity Framework
 www.dio.me
 
